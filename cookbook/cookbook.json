@@ -1,6 +1,6 @@
 {
 	"Resources": {
-		"name": "resource-name",
+		"name": "resource-NAME",
 		"description": "Resource description",
 		"infrastructures": [{
 				"name": "cloudsigma-infrastructure",
