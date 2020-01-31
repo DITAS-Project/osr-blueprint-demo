@@ -99,7 +99,7 @@
         "Testing_Output_Data": [
             {
                 "method_id": "getNutritionalData",
-                "zip_data": ""
+                "zip_data": "https://github.com/DITAS-Project/data-utility-evaluator/blob/master/dataset/getNutritionalData.zip?raw=true"
             },
             {
                 "method_id": "getBloodTestComponentAverage",
